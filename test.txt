@@ -4,4 +4,6 @@ second commit
 
 3th commit
 4th commit
+
 this is master
+new branch new
